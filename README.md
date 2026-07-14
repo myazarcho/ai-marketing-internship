@@ -1,1 +1,1 @@
-# ai-marketing-internship
+# flyrank-ai-marketing-internship
